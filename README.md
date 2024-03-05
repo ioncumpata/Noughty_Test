@@ -1,5 +1,5 @@
 ## **Screenshots**
-<img src="https://imgur.com/9s6azgl" width="300"> <img src="https://imgur.com/L7ODSsK" width="300">
+<img src="https://imgur.com/9s6azgl.png" width="300"> <img src="https://imgur.com/L7ODSsK.png" width="300">
 ## Description
 Welcome to the Mexican Food Recipe App! This Android application allows users to explore a variety of Mexican dishes and view their recipes.
 The app follows the MVVM (Model-View-ViewModel) architecture pattern and is modularized for better organization and maintainability.
